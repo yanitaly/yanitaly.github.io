@@ -5,7 +5,7 @@ image: assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
+  title: Web Applications
   subtitle: Illustration
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
@@ -13,6 +13,6 @@ Use this area to describe your project. **Markdown** supported. This entry (proj
 
 {:.list-inline}
 - Date: January 2017
-- Client: Web Application
+- Client: Web Applications
 - Category: Illustration
 
