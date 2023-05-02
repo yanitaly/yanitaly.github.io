@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "area of expertise"
     section: services
     list:
       - title: "E-Commerce"
@@ -33,13 +33,13 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "languages and skills"
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "work and study"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -59,9 +59,9 @@ en: &DEFAULT_EN
         desc: "Turin Italy & Hangzhou China"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Master in Politecnico di Torino"
+      - title: "Master Program"
         year: "2011-2014"
-        desc: "Turin, Italy"
+        desc: "Polytechnic University of Turin"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
